@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(233, 167, 81);
+   margin-top: 50px;
+ }
+ 
+ #figura{
+     margin-left: 250px;
+     margin-top: 100px;
+     border-radius: 10px;
+     border-color: rgb(182, 85, 5) ;
+     border-style: solid;
+     width: 1000px;
+ }
+ 
+ 
+ button{
+     height: 50px;
+     margin-left: 450px;
+     color: rgb(218, 198, 20);
+     background-color: rgb(182, 85, 5) ;
+     border-radius: 10px;
+     font-weight: bold;
+ }
+ 
+ 
